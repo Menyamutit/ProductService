@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  },
+  "name": "forsaller",
+  "version": "1.0.0",
+  "main": "obr.js",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
